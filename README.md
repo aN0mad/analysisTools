@@ -10,7 +10,7 @@ A step by step series of examples that tell you how to download the repo
 Use command line git or download with a browser
 
 
-*Using Git
+* Using Git
 
 Navigate to the directory where the repo will be cloned and then use
 ```
