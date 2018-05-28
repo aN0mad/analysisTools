@@ -1,6 +1,6 @@
 # Project Title
 
-Malware analysis tools used alongside "Practical Malware Analysis: The Hands-on Guide to Dissecting Malicious Software" Book by Andrew Honig and Michael Sikorski. Some are custom written but most are straight from their book.
+Malware analysis tools used alongside "Practical Malware Analysis: The Hands-on Guide to Dissecting Malicious Software" Book by Andrew Honig and Michael Sikorski. Some are custom written but most are straight from the book.
 
 
 ### Installing
