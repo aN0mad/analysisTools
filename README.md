@@ -22,6 +22,7 @@ Move into the directory to access the tools and installers
 * [Dependecy Walker](http://www.dependencywalker.com/) - A utility that scans any 32-bit or 64-bit Windows module (exe, dll, ocx, sys, etc.) and builds a hierarchical tree diagram of all dependent modules
 * hasher.py - A script written by me to compute file hashes, it currently supports MD5, SHA1, and SHA256
 * hasher - The compiled binary of hasher.py
+* [PEBrowse Professional](http://www.smidgeonsoft.prohosting.com/pebrowse-pro-file-viewer.html) - a static-analysis tool and disassembler for Win32/Win64 executables and Microsoft .NET assemblies. 
 * [PEiD](https://www.aldeid.com/wiki/PEiD) - detects most common packers, cryptors and compilers for PE files, however support was discontinued since April 2011
 * [PEview](https://www.aldeid.com/wiki/PEView) - Used for viewing the PE file header
 * [reshacker_setup.exe](http://www.angusj.com/resourcehacker/#download) - Resource Hacker™ has been designed to be the complete resource editing tool: compiling, viewing, decompiling and recompiling resources for both 32bit and 64bit Windows executables.
