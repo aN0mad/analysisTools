@@ -24,6 +24,7 @@ Move into the directory to access the tools and installers
 * hasher - The compiled binary of hasher.py
 * [PEiD](https://www.aldeid.com/wiki/PEiD) - detects most common packers, cryptors and compilers for PE files, however support was discontinued since April 2011
 * [PEview](https://www.aldeid.com/wiki/PEView) - Used for viewing the PE file header
+* [reshacker_setup.exe](http://www.angusj.com/resourcehacker/#download) - Resource Hacker™ has been designed to be the complete resource editing tool: compiling, viewing, decompiling and recompiling resources for both 32bit and 64bit Windows executables.
 * [strings.exe](https://docs.microsoft.com/en-us/sysinternals/downloads/strings) - It scans the file you pass it for UNICODE (or ASCII) strings of a default length of 3 or more UNICODE (or ASCII) characters
 * [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) - the individual troubleshooting tools and help files from Microsoft
 ## Acknowledgments
