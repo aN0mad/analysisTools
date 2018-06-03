@@ -26,6 +26,7 @@ Move into the directory to access the tools and installers
 * [pebinstsp.exe](http://www.smidgeonsoft.prohosting.com/pebrowse-pro-file-viewer.html) - PEBrowse Professional is a static-analysis tool and disassembler for Win32/Win64 executables and Microsoft .NET assemblies. 
 * [PEiD](https://www.aldeid.com/wiki/PEiD) - detects most common packers, cryptors and compilers for PE files, however support was discontinued since April 2011
 * [PEview](https://www.aldeid.com/wiki/PEView) - Used for viewing the PE file header
+* [regshot](https://sourceforge.net/projects/regshot/) - Regshot is an open-source (LGPL) registry compare utility that allows you to quickly take a snapshot of your registry and then compare it with a second one - done after doing system changes or installing a new software product.
 * [reshacker_setup.exe](http://www.angusj.com/resourcehacker/#download) - Resource Hacker™ has been designed to be the complete resource editing tool: compiling, viewing, decompiling and recompiling resources for both 32bit and 64bit Windows executables.
 * [sdl-apatedns.zip](https://www.fireeye.com/services/freeware/apatedns.html) - ApateDNS™ is a tool for controlling DNS responses though an easy-to-use GUI. As a phony DNS server, ApateDNS spoofs DNS responses to a user-specified IP address by listening on UDP port 53 on the local machine.
 * [strings.exe](https://docs.microsoft.com/en-us/sysinternals/downloads/strings) - It scans the file you pass it for UNICODE (or ASCII) strings of a default length of 3 or more UNICODE (or ASCII) characters
