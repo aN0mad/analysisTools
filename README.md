@@ -19,6 +19,7 @@ git clone https://github.com/rptucker/analysisTools.git
 Move into the directory to access the tools and installers
 
 ## Tools
+* [7z1805.exe](https://www.7-zip.org/) - 7-Zip is a file archiver with a high compression ratio.
 * [Dependecy Walker](http://www.dependencywalker.com/) - A utility that scans any 32-bit or 64-bit Windows module (exe, dll, ocx, sys, etc.) and builds a hierarchical tree diagram of all dependent modules
 * hasher.py - A script written by me to compute file hashes, it currently supports MD5, SHA1, and SHA256
 * hasher - The compiled binary of hasher.py
